@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 72px;
+  }
+  .grow_list{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+    font-weight: 500;
+  }
